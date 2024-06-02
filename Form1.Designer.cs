@@ -177,10 +177,10 @@
             // btnDelete
             // 
             btnDelete.Font = new Font("Microsoft JhengHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
-            btnDelete.Location = new Point(317, 351);
+            btnDelete.Location = new Point(357, 369);
             btnDelete.Margin = new Padding(4);
             btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(136, 43);
+            btnDelete.Size = new Size(136, 57);
             btnDelete.TabIndex = 12;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
